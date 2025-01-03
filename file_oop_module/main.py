@@ -4,21 +4,21 @@ from process import StudentProcessor
 from view import StudentView
 
 def main():
-    students = []  # Daftar siswa
+    students = []  # Daftar mahasiswa
     while True:
         try:
-            # Input data siswa
+            # Input data mahasiswa
             name = input("Masukkan nama mahasiswa: ").strip()
             grades_input = input("Masukkan nilai (pisahkan dengan koma): ").split(',')
             grades = StudentProcessor.validate_grades(grades_input)
 
-            # Tambah siswa ke daftar
+            # Tambah mahasiswa ke daftar
             students.append(Student(name, grades))
 
             # Tampilkan data
             StudentView.display_students(students)
 
-            # Apakah ingin menambah siswa lagi?
+            # Apakah ingin menambah mahasiswa lagi?
             if input("Tambah siswa lagi? (y/n): ").lower() != 'y':
                 break
         except ValueError as e:
