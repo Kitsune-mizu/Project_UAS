@@ -72,5 +72,5 @@
 
 ## Dokumentasi/Pressentasi kode Program
 
-* YouTube [text](https://youtu.be/v47htfCX9iQ)
-* GitHub [text](https://github.com/Kitsune-mizu/Project_UAS)
+* YouTube [https://youtu.be/v47htfCX9iQ](https://youtu.be/v47htfCX9iQ)
+* GitHub [https://github.com/Kitsune-mizu/Project_UAS](https://github.com/Kitsune-mizu/Project_UAS)
