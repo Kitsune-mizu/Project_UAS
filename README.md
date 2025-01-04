@@ -68,3 +68,9 @@
 ### Contoh penggunaan program
 
 ![alt text](image-4.png)
+
+
+## Dokumentasi/Pressentasi kode Program
+
+* YouTube [text](https://youtu.be/v47htfCX9iQ)
+* GitHub [text](https://github.com/Kitsune-mizu/Project_UAS)
