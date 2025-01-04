@@ -36,7 +36,7 @@
 
      * **Penjelasan:**
          * Class ini bertugas untuk menampilkan data mahasiswa dalam bentuk tabel menggunakan pustaka tabulate.
-             - Tabulate di harus di install di git bash (pip install tabulate).
+             - Tabulate harus di install di git bash (pip install tabulate).
      * **Cara kerja:**
          - Program mengambil daftar mahasiswa (list objek Student).
          - Data tiap mahasiswa diolah menjadi list: [nama, nilai, rata-rata].
