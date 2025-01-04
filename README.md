@@ -63,4 +63,8 @@
      - File process.py: Memvalidasi nilai dan menghitung rata-rata.
      - File view.py: Menampilkan data mahasiswa dalam tabel.
      - File main.py: Menggabungkan semua fungsi dan menjalankan program.
-     
+
+
+### Contoh penggunaan program
+
+![alt text](image-4.png)
